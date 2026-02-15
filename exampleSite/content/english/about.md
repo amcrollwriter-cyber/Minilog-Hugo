@@ -6,7 +6,9 @@ image: ""
 author_name: "A.M. Croll"
 draft: true
 ---
-**A.M. Croll** is a fantasy writer from London, former Foyle Young Poet of the Year and graduate of Goldsmiths, University of London and the University of Cambridge. The disabled and queer representation in this novel is reflective of my own experiences. When not writing, I teach in a school for autistic teenagers and write book reviews.
+I'm a fantasy writer from London, former Foyle Young Poet of the Year and graduate of Goldsmiths, University of London and the University of Cambridge. They write novels combining magic and politics, centring queer and/or disabled characters.&#x20;
+
+When not writing, I teach in a school for autistic teenagers and write book reviews.
 
 ​
 
