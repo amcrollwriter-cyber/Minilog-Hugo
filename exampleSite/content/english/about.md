@@ -6,9 +6,11 @@ image: ""
 author_name: "A.M. Croll"
 draft: true
 ---
-I'm a fantasy writer from London, former Foyle Young Poet of the Year and graduate of Goldsmiths, University of London and the University of Cambridge. They write novels combining magic and politics, centring queer and/or disabled characters.&#x20;
+I'm a fantasy writer from London with degrees from Goldsmiths, University of London and the University of Cambridge. I write novels combining magic and politics, centring queer and/or disabled characters.&#x20;
 
 When not writing, I teach in a school for autistic teenagers and write book reviews.
+
+I'm represented by Maddy Belton of Madeline Milburn Literary Agency.&#x20;
 
 ​
 
